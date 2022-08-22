@@ -18,7 +18,7 @@
 
 ### Catalog Description
 
-**Prerequisite** CECS 328 or CECS 346 with a grade of “C” or better.
+**Prerequisite**: CECS 328 or CECS 346 with a grade of “C” or better.
 Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics.
 
 Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H. 
