@@ -1,4 +1,4 @@
-# Introduction to Computer Security Principles
+# Introduction to Computer Security
 
 ## CECS 478: Section 2 (10256)
 
