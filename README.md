@@ -18,7 +18,10 @@
 
 ### Catalog Description
 
-**Prerequisites**: Prerequisites: CECS 229 and CECS 274 or CECS 275 all with a grade of C or better. An introduction to the fundamentals of cryptography and information and computer security. Basic concepts, theories and protocols in computer security. Basic cryptography, software security, operating system security, database security, network security, human factors, social engineering, digital forensics, privacy and anonymity. Letter grade only (A-F). (Lecture 2 hours, Laboratory 3 hours).
+**Prerequisite** CECS 328 or CECS 346 with a grade of “C” or better.
+Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics.
+
+Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H. 
 
 ### Course Goals
 
